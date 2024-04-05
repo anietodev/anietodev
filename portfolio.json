@@ -1,0 +1,64 @@
+{
+  "basics": {
+	  "name": "Andrea Nieto Gil",
+	  "status": "Studying",
+    "url": "https://tamala24.github.io/AndreaNietoGil",
+	  "message": "Let your dreams move you",
+    "location": {
+      "address": "",
+      "postalCode": "46017",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Andrea Nieto Gil",
+        "url": "https://linkedin.com/in/andrea-nieto-gil-abb690277"
+      },
+      {
+        "network": "GitHub",
+        "username": "Tamala24",
+        "url": "https://github.com/Tamala24"
+      }
+    ]
+  },
+    "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Advanced"
+    }
+  ],
+	"contact": [
+		"",
+	],
+	"education": {
+		university: "Polythecnic University of Valencia",
+		career: "Industrial Computing and Robotics",
+	},
+  "interests": [
+    {
+    "name": "Microprocessor Programming",
+    "keywords": [
+      "ESP32",
+      "Arduino"
+    ]
+    },
+    {
+    "name": "Robotics",
+    "keywords": [
+      "UR",
+      "Automatization"
+    ]
+    }
+  ]
+}
