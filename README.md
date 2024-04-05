@@ -1,7 +1,6 @@
 <br><br><br> 
-<h3 align="center">👋 Welcome to my</h3>
 <h1 align="center">
-	<p>Github</p>
+	<p>👋 Welcome to my Github</p>
 	<br>
 </h1>
 <!--
