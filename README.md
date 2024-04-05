@@ -94,7 +94,7 @@
 	<img src="https://img.shields.io/badge/C++-F52ED7?style=for-the-badge&logo=cplusplus&logoColor=white">
 	<img src="https://img.shields.io/badge/Cmake-0C6B05?style=for-the-badge&logo=cmake&logoColor=white">
 	<img src="https://img.shields.io/badge/Arduino-242C2E?style=for-the-badge&logo=arduino&logoColor=blue">
-	<img src="https://img.shields.io/badge/RISC--V-007ACC?style=for-the-badge&logo=riscv&logoColor=DECB21">
+	<img src="https://img.shields.io/badge/RISC--V-007ACC?style=for-the-badge&logo=riscv&logoColor=yellow">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
