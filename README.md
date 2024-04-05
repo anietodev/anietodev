@@ -8,10 +8,10 @@
 ```js
 {
   "basics": {
-	  "name": "Andrea Nieto Gil",
-	  "status": "Studying",
+    "name": "Andrea Nieto Gil",
+    "status": "Studying",
     "url": "https://tamala24.github.io/AndreaNietoGil",
-	  "message": "Let your dreams move you",
+    "message": "Let your dreams move you",
     "location": {
       "address": "",
       "postalCode": "46017",
@@ -45,15 +45,15 @@
       "language": "Catalan",
       "fluency": "Advanced"
     }
-  ],
-	"contact": [
-		"",
-	],
-	"education": {
-		"university": "Polythecnic University of Valencia",
-		"career": "Industrial Computing and Robotics",
-	},
-  "interests": [
+    ],
+    "contact": [
+       "",
+    ],
+    "education": {
+       "university": "Polythecnic University of Valencia",
+       "career": "Industrial Computing and Robotics",
+     },
+    "interests": [
     {
     "name": "Microprocessor Programming",
     "keywords": [
@@ -68,7 +68,7 @@
       "Automatization"
     ]
     }
-  ]
+    ]
 }
 ```
 <br><br><br> 
