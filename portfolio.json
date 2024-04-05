@@ -42,8 +42,8 @@
 		"",
 	],
 	"education": {
-		university: "Polythecnic University of Valencia",
-		career: "Industrial Computing and Robotics",
+		"university": "Polythecnic University of Valencia",
+		"career": "Industrial Computing and Robotics",
 	},
   "interests": [
     {
