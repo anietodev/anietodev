@@ -31,9 +31,9 @@
         url: "linkedin.com/in/aniegil"
       },
       {
-        "network": "GitHub",
-        "username": "anietodev",
-        "url": "github.com/anietodev"
+        network: "GitHub",
+        username: "anietodev",
+        url: "github.com/anietodev"
       }
     ],
     languages: [
