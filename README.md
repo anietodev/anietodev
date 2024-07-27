@@ -17,7 +17,7 @@
   basics: {
     name: "Andrea Nieto Gil",
     status: "Studying",
-    url: "https://tamala24.github.io/AndreaNietoGil",
+    url: "anietodev.github.io",
     message: "Let your dreams move you",
     location: {
       city: "Valencia",
