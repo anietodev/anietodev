@@ -3,14 +3,6 @@
 	<p> Welcome to my Github 🦉</p>
 	<br>
 </h1>
-<!--
-<br><br><br>
-<h1 align="center">
-	<p>👋 Hi, I'm @AndreaNietoGil</p>
-	<br><br>
-</h1>
-<br><br>
--->
 
 ```js
 {
