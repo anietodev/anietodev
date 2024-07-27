@@ -14,85 +14,74 @@
 
 ```js
 {
-  "basics": {
-    "name": "Andrea Nieto Gil",
-    "status": "Studying",
-    "url": "https://tamala24.github.io/AndreaNietoGil",
-    "message": "Let your dreams move you",
-    "location": {
-      "address": "",
-      "postalCode": "46017",
-      "city": "Valencia",
-      "countryCode": "ES",
-      "region": "España"
+  basics: {
+    name: "Andrea Nieto Gil",
+    status: "Studying",
+    url: "https://tamala24.github.io/AndreaNietoGil",
+    message: "Let your dreams move you",
+    location: {
+      city: "Valencia",
+      countryCode: "ES",
+      region: "España"
     },
-    "profiles": [
+    profiles: [
       {
-        "network": "LinkedIn",
-        "username": "Andrea Nieto Gil",
-        "url": "https://linkedin.com/in/andrea-nieto-gil-abb690277"
+        network: "LinkedIn",
+        username: "Andrea Nieto Gil",
+        url: "linkedin.com/in/aniegil"
       },
       {
         "network": "GitHub",
-        "username": "Tamala24",
-        "url": "https://github.com/Tamala24"
+        "username": "anietodev",
+        "url": "github.com/anietodev"
       }
-    ]
-  },
-    "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    },
-    {
-      "language": "Catalan",
-      "fluency": "Advanced"
-    }
     ],
-    "contact": [
-       "",
+    languages: [
+      {
+        language: "Spanish",
+        fluency: "Native speaker"
+      },
+      {
+        language: "English",
+        fluency: "Advanced"
+      },
+      {
+        language: "Catalan",
+        fluency: "Advanced"
+      }
     ],
-    "education": {
-       "university": "Polythecnic University of Valencia",
-       "career": "Industrial Computing and Robotics",
-     },
-    "interests": [
-    {
-    "name": "Microprocessor Programming",
-    "keywords": [
-      "ESP32",
-      "Arduino"
-    ]
+    education: {
+       university: "Polythecnic University of Valencia",
+       career: "Industrial Informatics and Robotics",
     },
-    {
-    "name": "Robotics",
-    "keywords": [
-      "UR",
-      "Automatization"
-    ]
-    }
+    interests: [
+      {
+        name: "Microprocessor Programming",
+        keywords: [
+          "ESP32",
+          "Arduino",
+          "C",
+          "C++"
+        ]
+      },
+      {
+        name: "Robotics",
+        keywords: [
+          "UR",
+          "Automation"
+        ]
+      }
     ]
 }
 ```
-<!--
-<br><br><br> 
-<h3 align="center">Welcome to my</h3>
-<h1 align="center">
-	<p>Github</p>
-	<br>
-</h1>
--->
+
 <br><br><br>
 <p align="center">
-	<a href="https://github.com/Tamala24">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tamala24" />
+	<a href="https://github.com/anietodev">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anietodev" />
 	</a> &nbsp;
-	<a href="https://github.com/Tamala24">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamala24&layout=compact&langs_count=8&card_width=320" />
+	<a href="https://github.com/anietodev">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anietodev&layout=compact&langs_count=8&card_width=320" />
 	</a>
 </p>
 
@@ -112,5 +101,5 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 <p align="center">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTamala241212%2Fhit-counter">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanietodev1212%2Fhit-counter">
 </p>
