@@ -36,7 +36,7 @@ struct Andrea {
 int main() {
     anietodev::Andrea me;
 
-    cout << "Building software close to the hardware, because I don't like to stay on the surface ;)\n";
+    cout << "Building software close to the hardware because I don't like to stay on the surface ;)" << endl;
 
     return 0;
 }
