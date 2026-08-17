@@ -4,95 +4,57 @@
 	<br>
 </h1>
 
-```js
-{
-  basics: {
-    name: "Andrea Nieto Gil",
-    status: "Studying",
-    url: "anietodev.github.io",
-    message: "Let your dreams move you",
-    location: {
-      city: "Valencia",
-      countryCode: "ES",
-      region: "España"
-    },
-    profiles: [
-      {
-        network: "LinkedIn",
-        username: "Andrea Nieto Gil",
-        url: "linkedin.com/in/aniegil"
-      },
-      {
-        network: "GitHub",
-        username: "anietodev",
-        url: "github.com/anietodev"
-      }
-    ],
-    languages: [
-      {
-        language: "Spanish",
-        fluency: "Native speaker"
-      },
-      {
-        language: "English",
-        fluency: "Advanced"
-      },
-      {
-        language: "Catalan",
-        fluency: "Advanced"
-      }
-    ],
-    education: {
-       university: "Polythecnic University of Valencia",
-       career: "Industrial Informatics and Robotics",
-    },
-    interests: [
-      {
-        name: "Microprocessor Programming",
-        keywords: [
-          "ESP32",
-          "Arduino",
-          "C",
-          "C++"
-        ]
-      },
-      {
-        name: "Robotics",
-        keywords: [
-          "UR",
-          "Automation"
-        ]
-      }
-    ]
-  }
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+namespace anietodev {
+
+struct Andrea {
+    const string name = "Andrea Nieto Gil";
+    const string role = "Embedded Systems Engineer";
+
+    const vector<string> interests = {
+        "Embedded Systems",
+        "C / C++",
+        "Python",
+        "Robotics",
+        "Low-Level Programming",
+        "IoT"
+    };
+
+    const vector<string> stack = {
+        "Linux", "Git", "Arduino",
+        "XtratuM", "FPGA", "CMake"
+    };
+};
+
+} // namespace anietodev
+
+int main() {
+    anietodev::Andrea me;
+
+    cout << "Building software close to the hardware.\n";
+
+    return 0;
 }
 ```
 
-<br><br><br>
 <p align="center">
-	<a href="https://github.com/anietodev">
-		<img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=anietodev" />
-	</a> &nbsp;
-	<a href="https://github.com/anietodev">
-		<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anietodev&layout=compact&langs_count=8&card_width=320" />
-	</a>
+  <a href="https://github.com/anietodev">
+    <img src="https://img.shields.io/badge/GitHub-anietodev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniegil/">
+    <img src="https://img.shields.io/badge/LinkedIn-aniegil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<br><br><br>
-<h2></h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-	<img src="https://img.shields.io/badge/C++-F52ED7?style=for-the-badge&logo=cplusplus&logoColor=white">
-	<img src="https://img.shields.io/badge/Cmake-0C6B05?style=for-the-badge&logo=cmake&logoColor=white">
-	<img src="https://img.shields.io/badge/Arduino-242C2E?style=for-the-badge&logo=arduino&logoColor=blue">
-	<img src="https://img.shields.io/badge/RISC--V-007ACC?style=for-the-badge&logo=riscv&logoColor=yellow">
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
-<p align="center">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanietodev1212%2Fhit-counter">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-333333?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
